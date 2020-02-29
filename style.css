@@ -1,9 +1,6 @@
 body{
   background-color: red;
   background-position: center;
-<<<<<<< HEAD
   font-family: sans-serif;
-=======
-  padding: 20px;
->>>>>>> feature_2
+  font-style: italic;
 }
